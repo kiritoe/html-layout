@@ -1,0 +1,39 @@
+html, body{
+width: 100%;
+height: 100%;
+}
+
+.one {
+	background: #4791DC;
+	height: 100%;
+	width: 33%;
+	float: left; 
+}
+
+.two {
+	background: #37E3C4;
+	height: 100%;
+	width: 34%;
+	float: left;
+}
+
+.three {
+	background: #B3E891;
+	height: 100%;
+	width:33%;
+	float: right;
+}
+
+.body {
+	background: #B3E891;
+	height: 70%;
+	width: 100%;
+
+}
+
+.footer {
+	background: #D50021;
+	height: 30%;
+	width: 100%;
+	
+}

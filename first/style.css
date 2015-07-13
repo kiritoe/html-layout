@@ -1,0 +1,42 @@
+html, body{
+width: 100%;
+height: 100%;
+}
+
+.header {
+	background: black;
+	width: 100%;
+	height: 10%;
+}
+.leftbox{
+	float: left;
+	background: gray;
+	height: 100%;
+	width: 10%;
+}
+.main {
+	background: white;
+	height: 100%;
+	width: 80%;
+float: left;
+
+}
+.body {
+	background: white;
+	height: 90%;
+	width: 90%;
+
+}
+.footer {
+	background: black;
+	height: 10%;
+	width: 100%;
+
+}
+.rightbox {
+	background: gray;
+	height: 100%;
+	width: 10%;
+	float: right;
+
+}
